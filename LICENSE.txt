@@ -1,0 +1,23 @@
+Copyright (c) 2026 senatsop. All rights reserved.
+
+PROPRIETARY AND CONFIDENTIAL
+
+1. PROHIBITION OF COPYING, REPRODUCTION, AND REPOSTING:
+No part of this software, source code, documentation, designs, or associated
+assets may be copied, reproduced, redistributed, republished, reposted,
+sublicensed, rented, leased, translated, mirrored, uploaded to public or
+private repositories, scraped, or transmitted in any form or by any means,
+electronic, mechanical, photocopying, recording, or otherwise, without the
+express prior written consent of the copyright holder (senatsop).
+
+2. NO RE-USE OR DERIVATIVE WORKS:
+You may not modify, decompile, reverse engineer, disassemble, create
+derivative works from, or adapt this software or any part thereof.
+
+3. UNAUTHORIZED USE:
+Any unauthorized copying, mirroring, distribution, public display, or reposting
+of this repository or its contents constitutes copyright infringement and a
+direct violation of this license agreement and applicable intellectual property
+laws.
+
+For licensing inquiries or written authorization, contact: aguimanallen12@gmail.com
